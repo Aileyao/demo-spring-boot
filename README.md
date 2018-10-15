@@ -8,3 +8,4 @@
 + 发布
   阿里云服务器支撑 + docker + jenkins
 + 打包命令mvn clean package -U -Dmaven.test.skip=true
+          mvn clean install -U -Dmaven.test.skip=true
